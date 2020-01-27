@@ -12,11 +12,6 @@ import java.awt.event.KeyListener;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-//////// Connect Four //////// 
-
-// Ascending and Descending methods need work
-
-//////////////////////////////
 public class Start extends JPanel implements Runnable,KeyListener {
     public static final long serialVersionUID = 1L;
 
